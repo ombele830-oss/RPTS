@@ -1,0 +1,12 @@
+node_modules/
+client/dist/
+server/data/
+*.log
+.env
+.DS_Store
+
+# Local AI tooling (not part of the project)
+.agents/
+.claude/
+.mcp.json
+skills-lock.json
